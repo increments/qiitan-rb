@@ -11,6 +11,7 @@ gem "ruboty-qiita_police"
 gem "ruboty-redis"
 gem "ruboty-scorekeeper"
 gem "ruboty-slack_rtm"
+gem "ruboty-a3rt_talk", git: 'https://github.com/tomoasleep/ruboty-a3rt_talk.git'
 gem "ruboty-twitter_search"
 gem "ruboty-rating"
 gem "ruboty-ruby", ">= 0.0.2"
