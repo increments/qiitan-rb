@@ -20,7 +20,8 @@ gem "ruboty-qiita_anti_spam"
 gem "ruboty-qiita_police"
 gem "ruboty-redis"
 gem "ruboty-scorekeeper"
-gem "ruboty-slack_rtm"
+# Use forked repositry for https://github.com/rosylilly/ruboty-slack_rtm/pull/48
+gem "ruboty-slack_rtm", github: 'Umekawa/ruboty-slack_rtm'
 gem "ruboty-twitter_search"
 gem "ruboty-rating"
 gem "ruboty-response", github: 'increments/ruboty-response'

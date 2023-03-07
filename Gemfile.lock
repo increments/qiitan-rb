@@ -1,4 +1,14 @@
 GIT
+  remote: https://github.com/Umekawa/ruboty-slack_rtm.git
+  revision: 8682da4adf076d8fff3badd6fb6677fb0ff7c6d7
+  specs:
+    ruboty-slack_rtm (3.2.4)
+      faraday (~> 0.11)
+      ruboty (>= 1.1.4)
+      slack-api (~> 1.6)
+      websocket-client-simple (>= 0.5.0)
+
+GIT
   remote: https://github.com/increments/ruboty-response.git
   revision: 2255896972ddc9e1e549333b74e9a5724a7decdf
   specs:
@@ -173,11 +183,6 @@ GEM
       ruboty (~> 1.0)
     ruboty-scorekeeper (0.0.3)
       ruboty
-    ruboty-slack_rtm (3.2.4)
-      faraday (~> 0.11)
-      ruboty (>= 1.1.4)
-      slack-api (~> 1.6)
-      websocket-client-simple (>= 0.5.0)
     ruboty-sushiyuki (0.0.2)
     ruboty-twitter_search (0.1.1)
       ruboty
@@ -222,7 +227,7 @@ GEM
     websocket-client-simple (0.6.0)
       event_emitter
       websocket
-    websocket-driver (0.7.2)
+    websocket-driver (0.7.5)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.5)
     zeitwerk (2.6.0)
@@ -250,7 +255,7 @@ DEPENDENCIES
   ruboty-ruby (>= 0.0.2)
   ruboty-ruby_persistence (= 0.2.0)
   ruboty-scorekeeper
-  ruboty-slack_rtm
+  ruboty-slack_rtm!
   ruboty-sushiyuki
   ruboty-twitter_search
 
