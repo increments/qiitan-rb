@@ -92,7 +92,7 @@ GEM
       activesupport
       octokit
       ruboty
-    ruboty-openai_chat (0.3.1)
+    ruboty-openai_chat (0.4.0)
       ruboty
       ruby-openai (~> 3.5)
     ruboty-qiita-github (0.3.2)
