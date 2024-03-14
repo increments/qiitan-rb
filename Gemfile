@@ -18,7 +18,7 @@ gem "ruboty-echo"
 gem "ruboty-irasutoya", github: "june29/ruboty-irasutoya"
 gem "ruboty-redis"
 gem "ruboty-scorekeeper"
-gem "ruboty-slack_rtm"
+gem "ruboty-slack_rtm", github: "atm-snag2/ruboty-slack_rtm", branch: 'use-slack-ruby-client'
 gem "ruboty-rating"
 gem "ruboty-response", github: 'increments/ruboty-response'
 gem "ruboty-ruby", ">= 0.0.2"
