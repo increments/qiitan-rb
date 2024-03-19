@@ -180,7 +180,7 @@ DEPENDENCIES
   ruboty-sushiyuki
 
 RUBY VERSION
-   ruby 2.7.6p219
+   ruby 3.1.4p223
 
 BUNDLED WITH
    2.3.8

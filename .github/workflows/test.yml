@@ -25,7 +25,7 @@ jobs:
     strategy:
       matrix:
         ruby:
-          - 2.7.6
+          - 3.1.4
     needs:
       - check_test_execution_conditions
     steps:
