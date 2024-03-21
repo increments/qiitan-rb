@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/atm-snag2/ruboty-slack_rtm.git
-  revision: 860fe68c3dde22e439b4e44d723306befa244e19
+  revision: 821035500115acc02a52711d7c386fdbc447488e
   branch: use-slack-ruby-client
   specs:
     ruboty-slack_rtm (3.2.5)
