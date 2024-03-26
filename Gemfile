@@ -11,7 +11,7 @@ git_source(:github) do |repo_name|
 end
 
 gem 'qiita'
-gem "rake", "< 13.0.0"
+gem "rake", "< 14.0.0"
 gem "ruboty-replace"
 gem "ruboty-bundler"
 gem "ruboty-echo"
