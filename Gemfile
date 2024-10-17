@@ -16,7 +16,7 @@ gem "ruboty-replace"
 gem "ruboty-bundler"
 gem "ruboty-echo"
 gem "ruboty-irasutoya", github: "june29/ruboty-irasutoya"
-gem "ruboty-redis"
+gem "ruboty-redis", github: "Umekawa/ruboty-redis", branch: 'master'
 gem "ruboty-scorekeeper"
 gem "ruboty-slack_rtm", github: "atm-snag2/ruboty-slack_rtm", branch: 'use-slack-ruby-client'
 gem "ruboty-rating"
