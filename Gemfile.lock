@@ -62,7 +62,7 @@ GEM
     faraday-net_http (3.0.2)
     faraday-retry (2.2.1)
       faraday (~> 2.0)
-    fiddle (1.1.2)
+    fiddle (1.1.6)
     gli (2.21.1)
     hashie (5.0.0)
     holiday_japan (1.4.4)
