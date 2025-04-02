@@ -22,7 +22,7 @@ gem "ruboty-bundler"
 gem "ruboty-echo"
 gem "ruboty-redis", github: "Umekawa/ruboty-redis", branch: 'master'
 gem "ruboty-scorekeeper"
-gem "ruboty-slack_rtm", github: "atm-snag2/ruboty-slack_rtm", branch: 'use-slack-ruby-client'
+gem "ruboty-slack_events"
 gem "ruboty-response", github: 'increments/ruboty-response'
 gem "ruboty-ruby", ">= 0.0.2"
 gem "ruboty-alias", "= 0.0.8"
