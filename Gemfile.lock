@@ -87,7 +87,7 @@ GEM
     fiber-local (1.1.0)
       fiber-storage
     fiber-storage (1.0.0)
-    fiddle (1.1.6)
+    fiddle (1.1.8)
     gli (2.22.2)
       ostruct
     hashie (5.0.0)
