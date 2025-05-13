@@ -1,0 +1,3 @@
+# package-ecosystem: bundler, directories: /
+/Gemfile @increments/qiita-dev-group
+/Gemfile.lock @increments/qiita-dev-group
