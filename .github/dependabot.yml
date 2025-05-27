@@ -9,3 +9,15 @@ updates:
       timezone: "Asia/Tokyo"
     versioning-strategy: increase
     open-pull-requests-limit: 5
+
+  - package-ecosystem: "github-actions"
+    directories:
+      - "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "14:00"
+      timezone: "Asia/Tokyo"
+    open-pull-requests-limit: 5
+    reviewers:
+      - "increments/qiita-dev-group"
