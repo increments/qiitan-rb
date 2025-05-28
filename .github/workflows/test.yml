@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - uses: xt0rted/block-autosquash-commits-action@v2
+      - uses: xt0rted/block-autosquash-commits-action@79880c36b4811fe549cfffe20233df88876024e7 # v2.2.0
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -29,8 +29,8 @@ jobs:
     needs:
       - check_test_execution_conditions
     steps:
-      - uses: actions/checkout@v4
-      - uses: ruby/setup-ruby@v1
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - uses: ruby/setup-ruby@13e7a03dc3ac6c3798f4570bfead2aed4d96abfb # v1.244.0
         with:
           ruby-version: ${{ matrix.ruby }}
           bundler-cache: true
