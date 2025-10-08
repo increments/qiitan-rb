@@ -9,6 +9,8 @@ updates:
       timezone: "Asia/Tokyo"
     versioning-strategy: increase
     open-pull-requests-limit: 5
+    cooldown:
+      default-days: 7
 
   - package-ecosystem: "github-actions"
     directories:
@@ -19,3 +21,5 @@ updates:
       time: "14:00"
       timezone: "Asia/Tokyo"
     open-pull-requests-limit: 5
+    cooldown:
+      default-days: 7
