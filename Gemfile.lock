@@ -129,13 +129,14 @@ GEM
     protocol-websocket (0.20.2)
       protocol-http (~> 0.2)
     public_suffix (5.0.4)
-    qiita (1.5.0)
+    qiita (1.6.0)
       activesupport
       faraday (>= 2, < 3)
       rack
       rainbow
       rouge
       slop (< 4.0.0)
+      uri (>= 1.0.4)
     rack (3.1.17)
     rainbow (3.1.1)
     rake (13.3.0)
@@ -202,7 +203,7 @@ GEM
     traces (0.15.2)
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
-    uri (1.0.3)
+    uri (1.0.4)
 
 PLATFORMS
   ruby
