@@ -137,7 +137,7 @@ GEM
       rouge
       slop (< 4.0.0)
       uri (>= 1.0.4)
-    rack (3.1.17)
+    rack (3.1.18)
     rainbow (3.1.1)
     rake (13.3.0)
     redis (5.3.0)
