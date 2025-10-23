@@ -155,7 +155,7 @@ GEM
       dotenv
       mem
       slop
-    ruboty-ai_agent (0.3.0)
+    ruboty-ai_agent (0.4.0)
       event_stream_parser (~> 1.0)
       openai (~> 0.22.0)
       ruboty (~> 1.3)
@@ -218,7 +218,7 @@ DEPENDENCIES
   qiita
   rake (< 14.0.0)
   reline
-  ruboty-ai_agent (~> 0.3.0)
+  ruboty-ai_agent (~> 0.4.0)
   ruboty-alias (= 0.0.8)
   ruboty-bundler
   ruboty-cron (~> 1.1.0)
