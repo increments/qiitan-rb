@@ -114,7 +114,7 @@ GEM
       sawyer (~> 0.9)
     openai (0.22.1)
       connection_pool
-    ostruct (0.6.2)
+    ostruct (0.6.3)
     protocol-hpack (1.5.1)
     protocol-http (0.54.0)
     protocol-http1 (0.35.2)
