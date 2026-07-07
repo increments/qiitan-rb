@@ -187,7 +187,7 @@ GEM
       ruboty (~> 1.0)
     ruboty-scorekeeper (1.0.0)
       ruboty
-    ruboty-slack_events (0.3.2)
+    ruboty-slack_events (0.3.3)
       async-websocket (~> 0.25)
       ruboty (>= 1.1.4)
       slack-ruby-client (~> 2.5)
