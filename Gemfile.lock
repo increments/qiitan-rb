@@ -31,8 +31,8 @@ GEM
       securerandom (>= 0.3)
       tzinfo (~> 2.0, >= 2.0.5)
       uri (>= 0.13.1)
-    addressable (2.8.6)
-      public_suffix (>= 2.0.2, < 6.0)
+    addressable (2.9.0)
+      public_suffix (>= 2.0.2, < 8.0)
     async (2.34.0)
       console (~> 1.29)
       fiber-annotation
@@ -131,7 +131,7 @@ GEM
       rack (>= 1.0)
     protocol-websocket (0.20.2)
       protocol-http (~> 0.2)
-    public_suffix (5.0.4)
+    public_suffix (7.0.5)
     qiita (1.6.0)
       activesupport
       faraday (>= 2, < 3)
