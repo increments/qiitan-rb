@@ -101,6 +101,8 @@ GEM
     io-event (1.14.0)
     io-stream (0.11.0)
     json (2.19.9)
+    jwt (3.2.0)
+      base64
     logger (1.7.0)
     mem (0.2.0)
     metrics (0.15.0)
@@ -177,6 +179,10 @@ GEM
       activesupport
       octokit
       ruboty
+    ruboty-github_actions (0.1.0)
+      jwt (>= 2.0)
+      octokit (>= 6.0)
+      ruboty (>= 1.3)
     ruboty-qiita-github (0.3.5)
       activesupport
       octokit
@@ -226,6 +232,7 @@ DEPENDENCIES
   ruboty-bundler
   ruboty-cron (~> 1.1.0)
   ruboty-echo
+  ruboty-github_actions
   ruboty-qiita-github
   ruboty-redis!
   ruboty-response!
