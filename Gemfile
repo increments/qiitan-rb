@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-ruby '3.4.1'
+ruby '3.4.11'
 
 # This workaround has already implemented in Bundler 2.0 branch.
 # So we can remove this lines after we upgrade Bundler to 2.0.
