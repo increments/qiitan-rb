@@ -25,7 +25,7 @@ gem "ruboty-scorekeeper"
 gem "ruboty-slack_events"
 gem "ruboty-response", github: 'increments/ruboty-response'
 gem "ruboty-ruby", ">= 0.0.2"
-gem "ruboty-alias", "= 0.0.8"
+gem "ruboty-alias", "0.1.0"
 gem "ruboty-cron", "~> 1.1.0"
 gem "ruboty-qiita-github"
 gem "ruboty-ruby_persistence", "= 0.2.0"
