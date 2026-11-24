@@ -169,7 +169,7 @@ GEM
     ruboty-bundler (0.1.3)
       ruboty (>= 1.2.1)
       ruboty-github
-    ruboty-cron (1.1.0)
+    ruboty-cron (1.2.0)
       activesupport
       chrono
       ruboty (>= 0.2.0)
@@ -230,7 +230,7 @@ DEPENDENCIES
   ruboty-ai_agent (~> 0.4.0)
   ruboty-alias (= 0.0.8)
   ruboty-bundler
-  ruboty-cron (~> 1.1.0)
+  ruboty-cron (~> 1.2.0)
   ruboty-echo
   ruboty-github_actions
   ruboty-qiita-github
