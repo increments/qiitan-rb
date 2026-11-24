@@ -131,7 +131,7 @@ GEM
       io-stream (>= 0.10)
       protocol-http (~> 0.43)
       rack (>= 1.0)
-    protocol-websocket (0.20.2)
+    protocol-websocket (0.21.3)
       protocol-http (~> 0.2)
     public_suffix (7.0.5)
     qiita (1.6.0)
